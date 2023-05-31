@@ -1,0 +1,153 @@
+1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>The service 'ftp' exists in $scan_services.
+The service 'ssh' exists in $scan_services.
+The service 'telnet' exists in $scan_services.
+The service 'smtp' exists in $scan_services.
+The service 'domain' exists in $scan_services.
+The service 'finger' exists in $scan_services.
+The service 'http' exists in $scan_services.
+The service 'pop3' exists in $scan_services.
+The service 'imap' exists in $scan_services.
+The service 'snmp' exists in $scan_services.
+The service 'ldap' exists in $scan_services.
+The service 'https' exists in $scan_services.
+The service 'EtherNetIP-1' exists in $scan_services.
+The service 'mysql' exists in $scan_services.
+The service 'krb524' exists in $scan_services.
+The service 'tram' exists in $scan_services.
+The service 'http-proxy' exists in $scan_services.
+The service 'ftp' exists in $scan_services.
+The service 'ssh' exists in $scan_services.
+The service 'telnet' exists in $scan_services.
+The service 'domain' exists in $scan_services.
+The service 'http' exists in $scan_services.
+The service 'ldap' exists in $scan_services.
+The service 'https' exists in $scan_services.
+The service 'msantipiracy' does not exist in $scan_services.
+The service 'krb524' exists in $scan_services.
+1<br>1<br>2<br>PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /var/www/html/scandata/src/func/func.php:407
+Stack trace:
+#0 /var/www/html/scandata/src/func/func.php(407): mysqli_stmt->bind_param()
+#1 /var/www/html/scandata/src/func/func.php(852): SimpleAPI->updateState()
+#2 /var/www/html/scandata/src/func/func.php(675): SimpleAPI->testScan()
+#3 /var/www/html/scandata/src/scripts/check_schedule.php(31): SimpleAPI->scheduleTest()
+#4 {main}
+  thrown in /var/www/html/scandata/src/func/func.php on line 407
+1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>3<br>1<br>1<br>1<br>1<br>1<br>1<br>The service 'ftp' exists in $scan_services.
+The service 'ssh' exists in $scan_services.
+The service 'telnet' exists in $scan_services.
+The service 'smtp' exists in $scan_services.
+The service 'domain' exists in $scan_services.
+The service 'finger' exists in $scan_services.
+The service 'http' exists in $scan_services.
+The service 'pop3' exists in $scan_services.
+The service 'imap' exists in $scan_services.
+The service 'snmp' exists in $scan_services.
+The service 'ldap' exists in $scan_services.
+The service 'https' exists in $scan_services.
+The service 'EtherNetIP-1' exists in $scan_services.
+The service 'mysql' exists in $scan_services.
+The service 'krb524' exists in $scan_services.
+The service 'tram' exists in $scan_services.
+The service 'http-proxy' exists in $scan_services.
+The service 'ftp' exists in $scan_services.
+The service 'telnet' exists in $scan_services.
+The service 'domain' exists in $scan_services.
+The service 'http' exists in $scan_services.
+The service 'ldap' exists in $scan_services.
+The service 'https' exists in $scan_services.
+The service 'msantipiracy' exists in $scan_services.
+The service 'krb524' exists in $scan_services.
+The service 'ssh' exists in $scan_services.
+1<br>1<br>2<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>The service 'ftp' exists in $scan_services.
+The service 'ssh' exists in $scan_services.
+The service 'telnet' exists in $scan_services.
+The service 'smtp' exists in $scan_services.
+The service 'domain' exists in $scan_services.
+The service 'finger' exists in $scan_services.
+The service 'http' exists in $scan_services.
+The service 'pop3' exists in $scan_services.
+The service 'imap' exists in $scan_services.
+The service 'snmp' exists in $scan_services.
+The service 'ldap' exists in $scan_services.
+The service 'https' exists in $scan_services.
+The service 'EtherNetIP-1' exists in $scan_services.
+The service 'mysql' exists in $scan_services.
+The service 'krb524' exists in $scan_services.
+The service 'tram' exists in $scan_services.
+The service 'http-proxy' exists in $scan_services.
+The service 'ftp' exists in $scan_services.
+The service 'telnet' exists in $scan_services.
+The service 'domain' exists in $scan_services.
+The service 'http' exists in $scan_services.
+The service 'ldap' exists in $scan_services.
+The service 'https' exists in $scan_services.
+The service 'msantipiracy' exists in $scan_services.
+The service 'krb524' exists in $scan_services.
+The service 'ssh' exists in $scan_services.
+1<br>1<br>2<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>The service 'ftp' exists in $scan_services.
+The service 'ssh' exists in $scan_services.
+The service 'telnet' exists in $scan_services.
+The service 'smtp' exists in $scan_services.
+The service 'domain' exists in $scan_services.
+The service 'finger' exists in $scan_services.
+The service 'http' exists in $scan_services.
+The service 'pop3' exists in $scan_services.
+The service 'imap' exists in $scan_services.
+The service 'snmp' exists in $scan_services.
+The service 'ldap' exists in $scan_services.
+The service 'https' exists in $scan_services.
+The service 'EtherNetIP-1' exists in $scan_services.
+The service 'mysql' exists in $scan_services.
+The service 'krb524' exists in $scan_services.
+The service 'tram' exists in $scan_services.
+The service 'http-proxy' exists in $scan_services.
+The service 'ftp' exists in $scan_services.
+The service 'telnet' exists in $scan_services.
+The service 'domain' exists in $scan_services.
+The service 'http' exists in $scan_services.
+The service 'ldap' exists in $scan_services.
+The service 'https' exists in $scan_services.
+The service 'msantipiracy' exists in $scan_services.
+The service 'krb524' exists in $scan_services.
+The service 'ssh' exists in $scan_services.
+PHP Parse error:  syntax error, unexpected token "}" in /var/www/html/scandata/src/func/func.php on line 925
+PHP Parse error:  syntax error, unexpected token "}" in /var/www/html/scandata/src/func/func.php on line 925
+PHP Parse error:  syntax error, unexpected token "}" in /var/www/html/scandata/src/func/func.php on line 957
+PHP Parse error:  syntax error, unexpected token "}" in /var/www/html/scandata/src/func/func.php on line 957
+PHP Parse error:  syntax error, unexpected token "}" in /var/www/html/scandata/src/func/func.php on line 957
+1<br>1<br>2<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'estate' in 'field list' in /var/www/html/scandata/src/func/func.php:934
+Stack trace:
+#0 /var/www/html/scandata/src/func/func.php(934): mysqli->prepare()
+#1 /var/www/html/scandata/src/func/func.php(880): SimpleAPI->serviceMissing()
+#2 /var/www/html/scandata/src/func/func.php(673): SimpleAPI->testScan()
+#3 /var/www/html/scandata/src/scripts/check_schedule.php(31): SimpleAPI->scheduleTest()
+#4 {main}
+  thrown in /var/www/html/scandata/src/func/func.php on line 934
+RTNETLINK answers: File exists
+1<br>1<br>2<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>1<br>PHP Warning:  Array to string conversion in /var/www/html/scandata/src/func/func.php on line 519
+PHP Fatal error:  Uncaught mysqli_sql_exception: Invalid JSON text: "Invalid value." at position 0 in value for column 'test_result.descricao'. in /var/www/html/scandata/src/func/func.php:519
+Stack trace:
+#0 /var/www/html/scandata/src/func/func.php(519): mysqli_stmt->execute()
+#1 /var/www/html/scandata/src/func/func.php(960): SimpleAPI->updateDescri()
+#2 /var/www/html/scandata/src/func/func.php(743): SimpleAPI->testScan()
+#3 /var/www/html/scandata/src/scripts/check_schedule.php(31): SimpleAPI->scheduleTest()
+#4 {main}
+  thrown in /var/www/html/scandata/src/func/func.php on line 519
+RTNETLINK answers: File exists
+PHP Warning:  Array to string conversion in /var/www/html/scandata/src/func/func.php on line 519
+PHP Parse error:  syntax error, unexpected token "}" in /var/www/html/scandata/src/func/func.php on line 387
+PHP Parse error:  syntax error, unexpected token "}" in /var/www/html/scandata/src/func/func.php on line 387
+PHP Parse error:  syntax error, unexpected token "}" in /var/www/html/scandata/src/func/func.php on line 387
+PHP Parse error:  syntax error, unexpected token "}" in /var/www/html/scandata/src/func/func.php on line 387
+PHP Parse error:  syntax error, unexpected token "public" in /var/www/html/scandata/src/func/func.php on line 110
+PHP Parse error:  syntax error, unexpected token "public" in /var/www/html/scandata/src/func/func.php on line 110
+RTNETLINK answers: File exists
+RTNETLINK answers: No such process
+PHP Fatal error:  Uncaught mysqli_sql_exception: MySQL server has gone away in /var/www/html/scandata/src/func/func.php:974
+Stack trace:
+#0 /var/www/html/scandata/src/func/func.php(974): mysqli->prepare()
+#1 /var/www/html/scandata/src/func/func.php(859): SimpleAPI->serviceCompare()
+#2 /var/www/html/scandata/src/func/func.php(726): SimpleAPI->testScan()
+#3 /var/www/html/scandata/src/scripts/check_schedule.php(31): SimpleAPI->scheduleTest()
+#4 {main}
+  thrown in /var/www/html/scandata/src/func/func.php on line 974
